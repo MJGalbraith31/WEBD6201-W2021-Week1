@@ -1,0 +1,15 @@
+{
+  "name": "webd6201-w2021-week1",
+  "version": "1.0.0",
+  "description": "test repo",
+  "main": "index.js",
+  "repository": "https://github.com/MJGalbraith31/WEBD6201-W2021-Week1",
+  "author": "MJ Galbraith <murray.galbraith@dcmail.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
